@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cheperdz
-- 👀 I’m interested in anime, videogames and AI 
-- 💞️ I’m looking to collaborate on any videogame or AI startup 
+* Software Design & Implementation
+* Game Development
+* AI
 
 You can DM me here or at my Discord (iiirony)
 
