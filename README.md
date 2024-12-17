@@ -2,7 +2,7 @@
 * Game Development
 * AI
 
-You can DM me here or at my Discord (iiirony)
+You can DM me here or at my Discord (iiirony), I'm always looking forward interesting start ups related or not to tech.
 
 <!---
 cheperdz/cheperdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
